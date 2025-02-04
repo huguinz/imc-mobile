@@ -40,5 +40,4 @@ fun main() {
     medico1.especialidades.add("Gastroenterologista")
     medico1.exibirFichaDoMedico()
 
-
 }
